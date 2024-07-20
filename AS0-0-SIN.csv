@@ -1,22 +1,4 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-8.219.191.110,80,80,false,SIN,Asia Pacific,Singapore,253,17.92
-47.236.169.141,8880,8880,false,SIN,Asia Pacific,Singapore,264,14.98
-8.219.60.54,2082,2082,false,SIN,Asia Pacific,Singapore,254,13.82
-8.219.110.81,80,80,false,SIN,Asia Pacific,Singapore,262,13.49
-47.237.82.15,80,80,false,SIN,Asia Pacific,Singapore,263,12.51
-47.237.100.206,2052,2052,false,SIN,Asia Pacific,Singapore,256,12.47
-47.236.164.215,2052,2052,false,SIN,Asia Pacific,Singapore,255,12.37
-47.237.14.220,80,80,false,SIN,Asia Pacific,Singapore,259,12.04
-8.219.114.201,80,80,false,SIN,Asia Pacific,Singapore,253,11.48
-47.236.130.95,2086,2086,false,SIN,Asia Pacific,Singapore,254,11.46
-8.222.137.192,2083,2083,true,SIN,Asia Pacific,Singapore,252,11.42
-47.236.189.92,2095,2095,false,SIN,Asia Pacific,Singapore,256,11.13
-47.236.170.225,2095,2095,false,SIN,Asia Pacific,Singapore,262,11.05
-47.237.100.206,8080,8080,false,SIN,Asia Pacific,Singapore,258,10.27
-8.219.78.188,8880,8880,false,SIN,Asia Pacific,Singapore,260,10.18
-8.219.222.98,2083,2083,true,SIN,Asia Pacific,Singapore,259,10.06
-8.222.183.242,2082,2082,false,SIN,Asia Pacific,Singapore,251,10.05
-47.237.11.182,2082,2082,false,SIN,Asia Pacific,Singapore,251,9.94
 8.222.156.242,2053,2053,true,SIN,Asia Pacific,Singapore,261,9.67
 47.237.0.31,2095,2095,false,SIN,Asia Pacific,Singapore,264,9.60
 8.219.78.1,2095,2095,false,SIN,Asia Pacific,Singapore,253,9.47
@@ -376,14 +358,6 @@
 8.222.187.4,80,80,false,SIN,Asia Pacific,Singapore,265,1.31
 8.219.198.139,2095,2095,false,SIN,Asia Pacific,Singapore,265,1.29
 47.245.96.80,2053,2053,true,SIN,Asia Pacific,Singapore,260,1.28
-47.237.11.182,8080,8080,false,SIN,Asia Pacific,Singapore,252,1.26
-103.167.151.182,443,443,true,SIN,Asia Pacific,Singapore,139,1.26
-47.236.75.152,2053,2053,true,SIN,Asia Pacific,Singapore,249,1.24
-47.236.80.110,8080,8080,false,SIN,Asia Pacific,Singapore,255,1.19
-138.2.104.102,443,443,true,SIN,Asia Pacific,Singapore,100,1.17
-47.245.86.230,2096,2096,true,SIN,Asia Pacific,Singapore,257,1.14
-47.236.145.85,2095,2095,false,SIN,Asia Pacific,Singapore,263,1.11
-47.237.11.182,80,80,false,SIN,Asia Pacific,Singapore,251,1.11
 47.236.180.51,8080,8080,false,SIN,Asia Pacific,Singapore,266,1.08
 47.245.84.124,2083,2083,true,SIN,Asia Pacific,Singapore,255,1.06
 8.219.139.13,8080,8080,false,SIN,Asia Pacific,Singapore,256,1.05
